@@ -77,3 +77,15 @@ banking-data-platform/
 5. Gold-layer SQL marts across all three, plus a README/architecture diagram tying it together for the portfolio write-up.
 
 This ordering lets you demo something working after step 2 and keeps each pipeline independently completable.
+
+## Naming Conventions 
+
+## Data Security & Compliance Strategies
+
+## Data Sources Strategies
+
+## Data Ingestiong & Transformation 
+
+## Data Storage & Database
+
+## Data Serving 

@@ -3,3 +3,4 @@
 resource "aws_s3_bucket" "backend-bucket" {
   bucket = "bank-s3-backend"
 }
+
